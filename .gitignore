@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Telltale generated/runtime data (regenerable from config/reference + raw/races)
+data/telltale.db
+data/backups/*.db
+data/backups/csv/
+data/csv/*.csv
+
+# Generated artefacts
+outputs/*.png
+outputs/*.csv
+outputs/*.pdf
+race_results/*.png
+
+# Secrets — never commit a filled-in mail config
+# (the committed config/email_config.ini ships DISABLED with no password)
+# If you fill it in locally, keep your copy private:
+# config/email_config.ini
+
+# OS noise
+.DS_Store
+Thumbs.db

@@ -1,0 +1,18 @@
+Trophy,When,Mode,LadiesAdv,CrewLadyBonus,LadiesCap,Tindal,CrewOnly,SeriesRaces,Discards,MinRaces,Note
+SPRING CHALLENGE CUP,third Sunday of March,standard,,,,,,,,,Standard club handicap: boat + personal + crew.
+AUTUMN CHALLENGE CUP,second Sunday of October,standard,,,,,,,,,Standard club handicap: boat + personal + crew.
+HARBOUR CUP,first Sunday of November,standard,,,,,,,,,Long-distance harbour race; standard handicap.
+FOUNDERS TROPHY,fourth Sunday of January,standard,,,,,,,,,Standard club handicap: boat + personal + crew.
+MIDWINTER CUP,second Sunday of December,standard,,,,,,,,,Standard club handicap: boat + personal + crew.
+REGATTA ROSE BOWL,first Sunday of May,standard,,,,,,,,,Standard club handicap: boat + personal + crew.
+NOVICE CUP,third Sunday of February,standard,,,,,,,,,Novice / junior helms; standard handicap.
+VETERANS TROPHY,fourth Sunday of April,standard,,,,,,,,,Veteran helms; standard handicap.
+KEELBOAT TRAY,second Sunday of June,boat_only,,,,,,,,,Boat handicaps only - personal and crew handicaps are not applied.
+COMMODORE'S MEDAL,first Sunday of September,boat_only,,,,,,,,,Boat handicaps only - personal and crew handicaps are not applied.
+ONE-DESIGN CUP,third Sunday of July,one_design,,,,,,,,,"Tindals only - handicap is applied through committee-set staggered starts, so it is scored on elapsed time (one-design)."
+LADIES CHALLENGE CUP,second Sunday of August,standard,,,,,,,,,Lady helms only; standard handicap.
+MEMORIAL LADIES TROPHY,fourth Sunday of September,standard,3,2,5,,,,,,"Standard handicap, plus +3 for a lady helm and +2 more if the crew is also a lady (capped at +5)."
+SEASON GOLD MEDAL,second Sunday of March,boat_only,,,,,,12,3,8,"Boat handicaps only; 12-race annual series, 3 discards, 8 to count."
+CLUB CHAMPIONSHIP,first Sunday of December,standard,,,,,,,,,All classes; standard handicap; sailed as an annual series.
+CREW CUP,first Sunday of March,boat_only,,,,,1,,,,Awarded to the regular crew of the boat scoring lowest in the season series. Boat handicaps only.
+LEGACY SPONSOR CUP,,standard,,,,,,,,,"A former sponsor's cup, kept on the register but no longer sailed."

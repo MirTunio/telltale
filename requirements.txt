@@ -1,0 +1,8 @@
+# Telltale runtime dependencies
+# -----------------------------
+# Pillow is the only third-party package: it renders the result/handicap/series
+# PNGs and the multi-page PDFs. Everything else (storage, e-mail, web UI, CSV)
+# uses the Python standard library.
+#
+# Requires Python 3.9 or newer.
+Pillow>=9.0

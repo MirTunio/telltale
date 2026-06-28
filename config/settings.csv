@@ -1,0 +1,22 @@
+key,value
+auto_email,ask
+award_min_month,3
+award_min_year,20
+award_season_per_month,2
+boat_select_by,class
+club_name,EXAMPLE SAILING CLUB
+default_start_times,"13:30,13:35,13:40,13:45"
+email_recipients,results@example.org
+hc_cap,2
+hc_min_races,2
+hc_updated_through,2026-05
+inactive_months,6
+max_backups,50
+member_initial_hc,0
+min_competitors,3
+novice_initial_hc,5
+scoring_base,100
+venue,EXAMPLE BAY
+whatsapp_number,
+wind_directions,"N,NE,E,SE,S,SW,W,NW"
+winter_wind_threshold,12
